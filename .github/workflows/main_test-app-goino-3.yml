@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'TEST-APP-GOINO-3'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD42E0E99D9348EAB48448C8A72FAAED }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1EDE556840984FD4B6C106ECF5C3F98E }}
           package: .
